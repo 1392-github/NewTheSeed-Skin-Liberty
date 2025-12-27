@@ -1,0 +1,19 @@
+{
+    "id": "liberty",
+    "version_code": 1,
+    "version_name": "1",
+    "skin_config": [
+        {
+            "key": "main_color",
+            "default": "#4188f1"
+        },
+        {
+            "key": "sub_color",
+            "default": "#5997f3"
+        },
+        {
+            "key": "border_color",
+            "default": "#e1e8ed"
+        }
+    ]
+}
