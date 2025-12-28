@@ -183,10 +183,14 @@ del, s, strike {
 }
 
 .Liberty .nav-wrapper .navbar .navbar-nav .nav-item .nav-link {
-    color: #fff;
+    color: var(--header-text-color);
     font-size: 1rem;
     padding: 0.7rem 0.8rem;
     line-height: 1.4rem;
+}
+
+.Liberty .navbar-brand {
+    color: var(--header-text-color)
 }
 
 .Liberty .nav-wrapper .navbar .navbar-nav .nav-item .nav-link:hover, .Liberty .nav-wrapper .navbar .navbar-nav .nav-item .nav-link:focus {

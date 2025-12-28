@@ -1,6 +1,6 @@
 {
     "id": "liberty",
-    "version": "3",
+    "version": "4",
     "skin_config": [
         {
             "key": "main_color",
@@ -9,6 +9,10 @@
         {
             "key": "sub_color",
             "default": "#5997f3"
+        },
+        {
+            "key": "header_text_color",
+            "default": "#fff"
         },
         {
             "key": "border_color",
