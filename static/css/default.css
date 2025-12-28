@@ -657,4 +657,8 @@ caption {
     color: #373a3c;
     caption-side: top;
 }
+
+label {
+    display: inline;
+}
 /* 부트스트랩 커스텀 End */

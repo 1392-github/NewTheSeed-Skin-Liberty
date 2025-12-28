@@ -1,7 +1,6 @@
 {
     "id": "liberty",
-    "version_code": 2,
-    "version_name": "2",
+    "version": "3",
     "skin_config": [
         {
             "key": "main_color",
